@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2d7f8a93.chunk.css",
+    "main.js": "/static/js/main.2eed30db.chunk.js",
+    "main.js.map": "/static/js/main.2eed30db.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ddf8fe10.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ddf8fe10.js.map",
+    "static/js/2.5c028e8d.chunk.js": "/static/js/2.5c028e8d.chunk.js",
+    "static/js/2.5c028e8d.chunk.js.map": "/static/js/2.5c028e8d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4b43e3c10562328d3fc5940e014e82e1.js": "/precache-manifest.4b43e3c10562328d3fc5940e014e82e1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2d7f8a93.chunk.css.map": "/static/css/main.2d7f8a93.chunk.css.map",
+    "static/js/2.5c028e8d.chunk.js.LICENSE.txt": "/static/js/2.5c028e8d.chunk.js.LICENSE.txt",
+    "static/media/Nav.css": "/static/media/logo_coral_drop_shadow.0bedd16d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddf8fe10.js",
+    "static/js/2.5c028e8d.chunk.js",
+    "static/css/main.2d7f8a93.chunk.css",
+    "static/js/main.2eed30db.chunk.js"
+  ]
+}
