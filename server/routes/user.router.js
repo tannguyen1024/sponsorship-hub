@@ -34,8 +34,8 @@ router.post('/register', (req, res, next) => {
     //sending to the user who just registered
     to: username,
     //from sponsorship hub -- in this case for our project will be lamportkn@gmail.com
-    from: 'lamportkn@gmail.com',
-    cc: 'lamportkn@gmail.com', // 2nd email recipient
+    from: 'tannguyen1024@gmail.com',
+    cc: 'tannguyen1024@gmail.com', // 2nd email recipient
     // bcc: 'lamportkn@gmail.com', // 3rd email recipient
     subject: `Sponsorship Hub Membership Approval - ${name}`,
     text: `${name} has requested approval on Sponsorship Hub pending admin approval. 
